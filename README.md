@@ -8,7 +8,9 @@ The purpose of this analysis is to analyze data on employees to gain a better un
 
 ## Results
 
-* Half of the staff members who are going to be retiring are engineers, and most of the staff members who are going to be retiring are senior staff members.
+* Half of the staff members who are going to be retiring are engineers.
+
+* Most of the staff members who are going to be retiring are senior staff members.
 
 <img src="https://github.com/teresa-le/pewlett-hackard-analysis/blob/main/Resources/Retiring_Titles.png">
 
